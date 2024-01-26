@@ -1,1 +1,1 @@
-![]("Julia_Set_Screenshot.png")
+![]("./Julia_Set_Screenshot.png")
